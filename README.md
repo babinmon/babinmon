@@ -9,6 +9,7 @@ I'm a motivated Information Technology student at PSG College of Technology with
 
 - Email: babin8444@gmail.com
 - GitHub: [babinmon](https://github.com/babinmon)
+- Portfolio: [babin-portfolio-two.vercel.app](https://babin-portfolio-two.vercel.app/)
 - Location: Kanyakumari, India
 
 ## 🚀 Skills
@@ -45,17 +46,6 @@ I'm a motivated Information Technology student at PSG College of Technology with
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=babinmon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Babin's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babinmon&theme=tokyonight&hide_border=true" alt="Babin's GitHub Streak" />
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babinmon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🎓 Education
 
