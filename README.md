@@ -9,6 +9,7 @@ I'm a motivated Information Technology student at PSG College of Technology with
 
 - Email: babin8444@gmail.com
 - GitHub: [babinmon](https://github.com/babinmon)
+- LinkedIn: [Babin Mon](https://www.linkedin.com/in/babin-mon-abb999371/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5fZjJPTMRpSqjaFX7oKsVQ%3D%3D)
 - Portfolio: [babin-portfolio-two.vercel.app](https://babin-portfolio-two.vercel.app/)
 - Location: Kanyakumari, India
 
