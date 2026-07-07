@@ -54,12 +54,8 @@ I'm a motivated Information Technology student at PSG College of Technology with
 ### B.Tech - Information Technology
 **PSG College of Technology, Coimbatore**  
 *Expected May 2027*  
-CGPA: 7.65/10
+CGPA: 7.73/10
 
-### Higher Secondary
-**Vivekananda Matric Hr Sec School, Vaikundapuram**  
-*Apr 2023*  
-Score: 90%
 
 ## 🚀 Projects
 
